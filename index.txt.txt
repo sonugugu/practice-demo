@@ -3,3 +3,5 @@ Hello world
 Preparing for development 
 
 checking branch
+
+checking merge 
