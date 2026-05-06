@@ -1,3 +1,5 @@
 Hello world
 
 Preparing for development 
+
+checking conflict
