@@ -2,6 +2,10 @@ Hello world
 
 Preparing for development 
 
+<<<<<<< HEAD
 checking branch
 
 checking merge 
+=======
+checking conflict
+>>>>>>> feature/index-update-demo
