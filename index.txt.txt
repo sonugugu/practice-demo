@@ -6,3 +6,6 @@ checking branch
  
 checking conflict
 
+checking merge 
+
+checking PR
