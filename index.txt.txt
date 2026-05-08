@@ -1,10 +1,10 @@
-Hello world
+Hello world   and heloo sonu
 
 Preparing for development 
 
 checking branch
  
-checking conflict
+checking conflict for sonu
 
 checking merge 
 
@@ -19,3 +19,5 @@ checking soft reset again
 Again checking soft
 
 sonu
+
+Amit
