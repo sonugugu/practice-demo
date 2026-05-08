@@ -14,4 +14,4 @@ checking PR again with Git hub UI
 
 checking PR for landing Page ...this is index page
 
-checking soft reset
+checking soft reset again
