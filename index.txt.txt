@@ -25,5 +25,3 @@ Amit
 checking reset again
 
 checking default reset 
-
-code for Menu page 
