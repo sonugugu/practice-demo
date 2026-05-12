@@ -25,3 +25,5 @@ Amit
 checking reset again
 
 checking default reset 
+
+checking clone 
